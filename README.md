@@ -2,4 +2,4 @@
 
 Gra Sokoban
 
-Projekt wykonany na zaliczenie PO
+Projekt wykonany jako zaliczenie przedmiotu PO.
